@@ -12,7 +12,7 @@ export default function Internships() {
         </h1>
         <div className="flex flex-wrap m-4">
           {internships.map((internship) => (
-            <div className="p-4 md:w-1/2 w-full">
+            <div key={internship.id} className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
                 <p className="leading-relaxed mb-6">{internship.company}</p>
                 <div className="inline-flex items-center">
