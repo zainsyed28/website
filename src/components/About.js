@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Zain.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a senior computer science major at California State University of Los Angeles. I am currently finishing up my final year after coming back from an internship in the summer. I love expanding my knowledge as much as I can in the computer science field.
+            I am a senior at California State University of Los Angeles studying computer science. I am currently finishing up my final year after coming back from an internship in the summer. I am currently aiming to get as much experience as I can in any way possible before I enter the field once I graduate. 
           </p>
           <div className="flex justify-center">
             <a
