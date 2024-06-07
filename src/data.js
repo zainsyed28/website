@@ -48,17 +48,17 @@ export const internships = [
     id: 1,
     company: "DEVCOM C5ISR (06/2023-08/2023)",
     role: "Software Engineer Intern",
-    tasks: ["• Learned tools and software like visual studio code, that are used on the base to gain a better understanding of the workflow.",
-    "• Attended meetings and intern demos to get a hands-on experience of the projects that were being worked on by the branch or by other branches.",
-    "• Collaborated alongside the other software developers to create an internal filter and search tool used for the base"]
+    tasks: ["•	Acquired familiarity with essential development tools like Visual Studio Code and Visual Studio.",
+    "• 	Participated in meetings and demos, gaining insight into ongoing projects and how they. ",
+    "• Learned how to use git to keep track of changes and contributed to the development of an internal filtering and search tool for the branch."]
   },
   {
     id: 2,
-    company: "We2link (09/2023-Present)",
-    role: "Software Engineer Intern",
-    tasks: ["• Worked in pair programming to complete tasks in the given two-week sprint.",
-    "• Developed my skillset on how to use version control software like JIRA and Github.",
-    "• Enhanced my general knowledge with ReactJS and build a solid foundation to problem solve efficiently."]
+    company: "We2link (09/2023-05/2024)",
+    role: ["Software Engineer Intern", "Part time Software Engineer"],
+    tasks: ["•	Actively contribute to pair programming sessions, aiding in accomplishing sprint tasks",
+    "•	Proficiently employed version control tools such as JIRA and GitHub, ensuring streamlined productivity.",
+    "•	Continuously enhancing ReactJS proficiency and sharpening problem-solving skills for smoother project execution "]
   }
 ];
 
