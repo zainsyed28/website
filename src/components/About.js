@@ -7,10 +7,10 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Zain.
+            Hello, I'm Zain.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am a senior at California State University of Los Angeles studying computer science. I am currently finishing up my final year after coming back from an internship in the summer. I am currently aiming to get as much experience as I can in any way possible before I enter the field once I graduate. 
+            I am a recent graduate from California State University of Los Angeles who majored in computer science. I am currently entering the industry as a software engineer at the place I interned at last year, I want to keep on improving my skills and learn new things. 
           </p>
           <div className="flex justify-center">
             <a
