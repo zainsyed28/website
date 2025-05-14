@@ -46,29 +46,45 @@ export const projects = [
 export const internships = [
   {
     id: 1,
-    company: "DEVCOM C5ISR (06/2023-08/2023)",
-    role: "Software Engineer Intern",
-    tasks: ["•	Acquired familiarity with essential development tools like Visual Studio Code and Visual Studio.",
-    "• 	Participated in meetings and demos, gaining insight into ongoing projects and how they. ",
-    "• Learned how to use git to keep track of changes and contributed to the development of an internal filtering and search tool for the branch."]
+    company: "DEVCOM C5ISR (06/2023-04/2025)",
+    role: "Software Engineer",
+    tasks: ["•	Spearheaded the development of an internal data filtering and search tool, reducing data retrieval time by 40%. ",
+    "• 	Contributed to multiple high-impact projects, improving codebase efficiency and reducing teammate workload.  ",
+    "• Gained full-cycle development experience while supporting agile team workflows and documentation standards. ",
+    "• Accelerated project turnaround by mastering internal development environments including Visual Studio and VS Code. "]
   },
   {
     id: 2,
     company: "We2link (09/2023-05/2024)",
     role: ["Software Engineer Intern", "Part time Software Engineer"],
-    tasks: ["•	Actively contribute to pair programming sessions, aiding in accomplishing sprint tasks",
-    "•	Proficiently employed version control tools such as JIRA and GitHub, ensuring streamlined productivity.",
-    "•	Continuously enhancing ReactJS proficiency and sharpening problem-solving skills for smoother project execution "]
+    tasks: ["•	Deliver the project from design to testing, including new programs, enhancements, and modifications.",
+    "•	Monitor the performance and test the server to ensure it is running smoothly.",
+    "•	Participate in estimation and planning sessions to determine project milestones and deliverables.",
+    "•	Work closely with the Product team to deliver quality features in high-quality code and best practices.",
+    "•	Drive major architectural changes as we scale to improve our engineering velocity and efficiency."]
   }
 ];
 
 export const skills = [
   "JavaScript",
-  "React",
+  "ReactJS",
   "Python",
   "C++",
   "Java",
   "MySQL",
   "HTML",
-  "CSS"
+  "CSS",
+  "Git",
+  "OpenGL",
+  "Shell Scripting",
+  "Docker",
+  "Node.js",
+  "MySQL",
+  "Apache Airflow",
+  "Tableau",
+  "SFML",
+  "AWS",
+  "Windows",
+  "Ubuntu",
+  "WebSockets"
 ];
