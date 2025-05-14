@@ -56,7 +56,7 @@ export const internships = [
   {
     id: 2,
     company: "We2link (09/2023-05/2024)",
-    role: ["Software Engineer Intern", "Part time Software Engineer"],
+    role: ["Part time Software Engineer"],
     tasks: ["•	Deliver the project from design to testing, including new programs, enhancements, and modifications.",
     "•	Monitor the performance and test the server to ensure it is running smoothly.",
     "•	Participate in estimation and planning sessions to determine project milestones and deliverables.",
